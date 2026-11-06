@@ -633,7 +633,6 @@ Roteiros para futura implementação. **Não são alegados testes de aplicação
 | Único Markdown e Mermaid interno | Toda a entrega neste README, sem imagens ou aplicação. |
 | Contribuição individual no histórico | Autor identificado; entrega registrada sob identidade Git de Pedro Isaque. |
 
-**Entrega ao professor:** enviar o link do repositório público no cronograma definido em aula. O enunciado indica encontros, sem data de calendário. Publicar o repositório não substitui enviar o link ao professor.
 
 ## Sources
 
